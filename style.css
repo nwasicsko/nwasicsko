@@ -1,0 +1,45 @@
+body {
+	margin:50px;
+	padding:0;
+	background: lightgray;
+	font-family: mono;
+}
+
+.page {
+  height: auto;
+  width: auto;
+  background: white;
+  border-radius: 5px 5px 0 0;
+}
+
+.nav {
+border: 1px solid black;
+background: black;
+border-radius: 5px 5px 0 0;
+}
+
+.nav li {
+  display: inline;
+}
+
+.nav li a {
+  text-decoration: none;
+  color: white;
+}
+
+.content {
+  text-align: center;
+  width: auto;
+  height: auto;
+  font-size: 30px;
+}
+
+.info a {
+  text-decoration: none;
+  color: black;
+  text-align: justify;
+}
+.user-img {
+  width: 150px;
+  margin-left: 10px;
+}
